@@ -11,3 +11,6 @@ city = input("What's the name of the city you grew up in?\n")
 pet = input("What's your pet's name?\n")
 Band_Name = city + " " + pet
 print('Your band name could be '+ (Band_Name))
+
+# I was using Replit when learning to make this project here: https://replit.com/@jonathansrene/band-name-generator-start#main.py
+# Thank you
